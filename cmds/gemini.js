@@ -26,7 +26,7 @@ module.exports = {
 
         try {
 
-            const geminiApi = `https://69070.replit.app/gemini`;
+            const geminiApi = `https://liaspark.chatbotcommunity.ltd/@hercai/api/gemini`;
 
             let url = "";
 
