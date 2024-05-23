@@ -13,7 +13,7 @@ module.exports = {
             helpMessage += `Credits: ${command.credits}\n`;
         helpMessage += '💮═══════════════💮\n';
         });
-        helpMessage += '💬https://facebook.com/yetanotherfbbot';
+        helpMessage += '💬https://www.facebook.com/bruno.rakotomalala.7549';
         api.sendMessage(helpMessage, event.threadID);
     }
 };
