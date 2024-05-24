@@ -4,7 +4,7 @@ module.exports = {
     name: 'geminie',
     version: '1.0',
     author: 'Google',
-    role: 0,
+    role: "user",
     category: 'Ai-Chat',
     shortDescription: {
         en: `Gemini: The Sign of the Twins, Where Duality Meets Brilliance
